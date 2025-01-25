@@ -1,5 +1,5 @@
 # dbLibrary
-dbLibrary merupakan database perpustakaan untuk admin yang bertugas mengatur anggota perpustakaan dan peminjaman buku
+dbLibrary merupakan database perpustakaan untuk admin yang bertugas mengatur anggota perpustakaan dan peminjaman buku. Tampilan antarmuka mengguna GUI
 
 Database terdiri dari 12 tabel:
 1. anggota
